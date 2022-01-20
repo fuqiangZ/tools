@@ -1,0 +1,3 @@
+[jupiter.server.http]
+    Host = "0.0.0.0"
+    port = 11911
